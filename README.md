@@ -4,8 +4,10 @@
 
 1. Install the keyboard library from requirments.txt
 2. Install the samsungtvws library:
-    - ```pip3 install samsungtvws[async,encrypted]```
+    - ```pip install samsungtvws[async,encrypted]```
     - Or refer to [Docs](https://pypi.org/project/samsungtvws/)
+        - May be missing this library: ```pip install async-timeout```
+
 
 3. Add in your IP Address of TV inside code
 4. Run Application
