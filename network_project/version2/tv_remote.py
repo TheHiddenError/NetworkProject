@@ -25,7 +25,7 @@ youtube_grid = { #to simulate keyboard on TV
 
 youtube_number_grid = {
     "1": 0, "2": 1, "3": 2,
-    "3": 7, "4": 8, "5": 9,
+    "4": 7, "5": 8, "6": 9,
     "7": 14, "8":15, "9": 16,
     "0": 21
 }
